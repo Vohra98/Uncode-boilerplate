@@ -9,7 +9,7 @@ Simply pull in as a package through composer
 ```
 ...
 "require": {
-    ""untitled/wordpress-boilerplate": "~1.0"
+    ""uncode/boilerplate": "~1.0"
 }
 ...
 ```
